@@ -1,2 +1,2 @@
 # PerlBasics
-Perl repository containing scripts with Perl basics : variables, arrays, indexing, sorting, IO.
+Perl repository containing simple scripts on the basics of Perl : variables, arrays, hashes, indexing, sorting, IO, etc.
